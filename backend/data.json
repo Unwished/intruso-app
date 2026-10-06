@@ -1,0 +1,10 @@
+{
+  "manualArmed": false,
+  "scheduleEnabled": false,
+  "slots": [],
+  "emailTo": "santiagoalma@unisabana.edu.co",
+  "cooldownSec": 60,
+  "espHost": "10.93.201.117",
+  "sensitivity": 3,
+  "usePir": false
+}
